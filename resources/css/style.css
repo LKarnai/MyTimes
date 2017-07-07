@@ -2,7 +2,7 @@ body {
   margin: 0px;
 }
 
-#header {
+header {
   font-family: Verdana;
   font-size: 14px;
   font-weight: bold;
@@ -154,7 +154,7 @@ p {
   padding: 10px;
 }
 
-.footer {
+footer {
   display: flex;
   justify-content: center;
   align-items: center;
